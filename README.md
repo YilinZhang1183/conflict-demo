@@ -1,2 +1,3 @@
 # conflict-demo
-Yilin updated main
+Edited by both Yilin and Linyi
+
